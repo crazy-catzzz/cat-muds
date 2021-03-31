@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "catmuds:mud_ball"
+    },
+    "result": "catmuds:dried_mud_ball",
+    "experience": 0.35,
+    "cookingtime": 50
+}
